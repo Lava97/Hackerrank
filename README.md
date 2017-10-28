@@ -18,4 +18,4 @@ Home page: https://github.com/Lava97
 
 [The Chosen One](https://github.com/Lava97/Hackerrank/blob/master/The%20Chosen%20One.py)
 
-Copyright © 2017. All rights reserved. No warranty.
+
