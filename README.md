@@ -9,8 +9,13 @@ This repository contains Lava97's(Lalit Chandwani) program code(Python) to solve
 Find Hackerrank Python answers here.
 Home page: https://github.com/Lava97
 
-This code is provided for reference only. You need prior written permission
-to do any of the following: republish the code, publish the code
-with modifications, use/take parts of the code into your own work, etc.
+## Contents
+[README](https://github.com/Lava97/Hackerrank/blob/master/README.md)
+
+[Die Hard 3](https://github.com/Lava97/Hackerrank/blob/master/Die%20Hard%203.py)
+
+[New Year Chaos](https://github.com/Lava97/Hackerrank/blob/master/New%20Year%20Chaos.py)
+
+[The Chosen One](https://github.com/Lava97/Hackerrank/blob/master/The%20Chosen%20One.py)
 
 Copyright © 2017. All rights reserved. No warranty.
